@@ -1,28 +1,26 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aashmi+%F0%9F%91%8B;Also+known+as+AASHMII;Frontend+%2B+AI+%2B+Curiosity;Learning+by+building%2C+always." alt="Typing SVG" />
+# Hi, I'm Aashmi Gautam 👋 <sub>(AASHMII)</sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+%2B+AI+%2B+Curiosity;Learning+by+building%2C+always.;Final-year+CSE+undergrad" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00C2FF?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/aashmi-gautam-56407b2ab/))
-[![Gmail](https://img.shields.io/badge/-Gmail-00C2FF?style=flat-square&logo=gmail&logoColor=white)](mailto:aashmigautam7@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Aashmi11&color=00C2FF&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00C2FF?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![Gmail](https://img.shields.io/badge/-Gmail-00C2FF?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 </div>
 
 <br/>
 
-## 🔭 A Quick Snapshot
+## 🙋‍♀️ About Me
 
-```yaml
-name: Aashmi Gautam (AASHMII)
-location: Ghaziabad, India
-education: B.Tech CSE @ AKGEC (2023 - 2027), affiliated to AKTU
-role: Final-year student · AI/ML Intern @ VergeAssure Technologies
-focus: [Frontend Development, Software Engineering, Artificial Intelligence]
-learning_style: YouTube + structured courses + a LOT of hands-on projects
-currently_building: LangGraph-based agentic chatbot
-open_to: internships, collaborations, interesting problems
-```
+🎯 Final-year **B.Tech CSE** student focused on **frontend development and applied AI** — the kind of work that turns a rough idea into something people can actually use and understand.
+
+🤖 Interested in **agentic AI systems** — currently building a **LangGraph-based chatbot**, and separately exploring **LangChain + RAG** workflows for search-integrated tools.
+
+🌱 Strengthening my **DSA fundamentals** while applying my **ML skill set** where it's useful — data pipelines, model benchmarking, and end-to-end deployment.
 
 <br/>
 
@@ -103,19 +101,20 @@ Sharpening problem-solving fundamentals in the background — not flashy, but it
 
 <br/>
 
-## 🧗 My Path So Far
+## 💼 Work Experience
 
-```text
-2023 ─┬─ Started B.Tech CSE @ AKGEC
-      │
-2025 ─┼─ IBM SkillsBuild PBEL — built an automated salary prediction tool end-to-end
-      │  🏅 Inter-IIT Award Winner — IIT Kanpur & IIT Ropar
-      │
-2026 ─┼─ Smart India Hackathon (SIH) Pre-Finalist, college level
-      │  AI/ML Intern @ VergeAssure Technologies — building a LangGraph chatbot
-      │
- Now  ─┴─ Final year, sharpening DSA + exploring agentic AI, open to internships
-```
+| Role | Company | Impact |
+|---|---|---|
+| **AI/ML Intern** | VergeAssure Technologies *(2026)* | Data cleaning & preprocessing for ML datasets; building models toward a LangGraph-based agentic chatbot |
+| **PBEL Intern** | IBM SkillsBuild *(2025)* | Built an automated salary prediction tool end-to-end over a 6-week experiential learning program |
+
+<br/>
+
+## 🏆 Achievements
+
+| 🏅 Inter-IIT Award | 🥈 SIH Pre-Finalist | 📜 IBM PBEL Certified | 📜 Web Dev Certified |
+|---|---|---|---|
+| Winner — IIT Kanpur & IIT Ropar | Smart India Hackathon, college level | IBM SkillsBuild PBEL Certificate | Industry-led Web Development course |
 
 <br/>
 
