@@ -7,8 +7,8 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aashmi11&color=00C2FF&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00C2FF?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-[![Gmail](https://img.shields.io/badge/-Gmail-00C2FF?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00C2FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashmi-gautam-56407b2ab/)
+[![Gmail](https://img.shields.io/badge/-Gmail-00C2FF?style=flat-square&logo=gmail&logoColor=white)](mailto:aashmigautam7@gmail.com)
 
 </div>
 
@@ -138,8 +138,8 @@ Sharpening problem-solving fundamentals in the background — not flashy, but it
 I'm always up for talking frontend, AI/ML, or just good project ideas.
 Open to internships, collaborations, and problems worth solving.
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-[![Gmail](https://img.shields.io/badge/-Say%20Hi%20on%20Gmail-00C2FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashmi-gautam-56407b2ab/)
+[![Gmail](https://img.shields.io/badge/-Say%20Hi%20on%20Gmail-00C2FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashmigautam7@gmail.com)
 
 <br/>
 
