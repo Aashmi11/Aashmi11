@@ -6,7 +6,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aashmi11&color=00C2FF&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-00C2FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashmi-gautam-56407b2ab/)
 [![Gmail](https://img.shields.io/badge/-Gmail-00C2FF?style=flat-square&logo=gmail&logoColor=white)](mailto:aashmigautam7@gmail.com)
 
